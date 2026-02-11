@@ -1168,7 +1168,9 @@
 10. [llmonitor/llmonitor](https://github.com/llmonitor/llmonitor) - 大语言模型（LLMs）的生产工具包涉及可观测性、提示管理和评估。
 11. [lunary-ai/lunary](https://github.com/lunary-ai/lunary) - 大型语言模型（LLMs）的生产工具包包括可观测性、提示管理和评估。
 12. [dillionverma/llm.report](https://github.com/dillionverma/llm.report) - llm.report是一个针对OpenAI的开源平台，用于记录API请求、成本分析和提示优化。
-13. [whylabs/langkit](https://github.com/whylabs/langkit) - LangKit是一个用于大型语言模型（LLM）监控的开源工具包。它具有用于LLM可观测性的文本质量和情感分析等功能。
+
+13. [comet-ml/opik](https://github.com/comet-ml/opik) - 开源 LLM 可观测性与评估平台，支持追踪、评估与提示词优化。
+14. [whylabs/langkit](https://github.com/whylabs/langkit) - LangKit是一个用于大型语言模型（LLM）监控的开源工具包。它具有用于LLM可观测性的文本质量和情感分析等功能。
 
 ### 视频生成
 
